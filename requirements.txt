@@ -1,0 +1,10 @@
+streamlit
+google-genai>=1.0.0
+duckduckgo-search
+requests
+beautifulsoup4
+python-docx
+reportlab
+matplotlib
+python-dotenv
+lxml
