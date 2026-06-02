@@ -126,46 +126,6 @@ Mr.News/
 
 ---
 
-# 🚀 Getting Started
-
-### Prerequisites
-
-Ensure the following are installed:
-
-```bash
-pip install -r requirements.txt
-```
-You will also need a Gemini API key.
-
-Get one from:
-
-https://aistudio.google.com/
-
-Run the Application
-```bash
-streamlit run app.py
-```
-Steps:
-
-Enter your Gemini API key in the sidebar
-
-Input a research topic
-
-Click Research
-
-Download the generated DOCX or PDF report
-
-📌 Example Topics
-
-You can generate reports on topics such as:
-
-1. Claude AI
-2. ChatGPT
-3. Quantum Computing
-4. Nvidia GPUs
-5. Autonomous Vehicles
-6. Open Source LLMs
-
 👨‍💻 Author
 
 Jayan Gupta
