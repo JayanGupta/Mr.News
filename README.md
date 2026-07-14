@@ -85,6 +85,7 @@ A concise overview including:
 ---
 
 # 🗂️ Project Structure
+```r
 Mr.News/
 │
 ├── app.py # Streamlit UI + research pipeline
@@ -98,7 +99,7 @@ Mr.News/
 ├── analyzer.py # Gemini API client and retry logic
 └── report_builder.py # DOCX and PDF report generation
 
-
+```
 ---
 
 # 🧰 Tech Stack
